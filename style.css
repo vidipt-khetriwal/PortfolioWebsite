@@ -1,0 +1,107 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    overflow: auto;
+}
+body{
+    /* background-color: rgb(235, 231, 217); */
+    background-color: black;
+}
+
+.outer{
+    margin: 2%;
+    /* margin-top: 5%; */
+    display: fixed;
+    height: 600px;
+    background: linear-gradient(
+        to right, 
+        rgb(236, 65, 65) 0%, 
+        rgb(236, 65, 65) 45%, 
+        black 45%, 
+        black 100%
+    );
+}
+.outer2{
+    background: linear-gradient(
+        to right, 
+        black 0%, 
+        black  55%, 
+        rgb(236, 65, 65) 55%, 
+        rgb(236, 65, 65) 100%
+    );
+}
+.inner{
+    display: flex;
+    height: 90%;
+}
+
+.left{
+    /* border: 2px solid red; */
+    box-shadow: 2px 2px 5px lightgray;
+    margin-left: 25%;
+    margin-top: 3%;
+    width: 25%;
+    background-color: white;
+}
+.left2{
+    width: 35%;
+    background-color: black;
+}
+.right{
+    /* border: 2px solid red; */
+    margin-top: 3%;
+    width: 35%;
+    background-color: black;
+}
+.right2{
+    width: 25%;
+    background-color: #ec4141;
+}
+
+.inner_second{
+    justify-content: center;
+    margin-left: 25%;
+    margin-top: 4%;
+    width: 60%;
+    /* border: 10px solid rgb(236, 65, 65); */
+    background-color: white;
+}
+.inner_second1{
+    padding-right: 5%;
+}
+.inner_second2{
+    padding-left: 3%;
+    padding-right: 3%;
+    background: white;
+}
+.inner_third{
+    /* border: 2px solid red; */
+    height: 85%;
+    width: 100%;
+    margin-top: 5%;
+    margin-left: 5%;
+    /* margin: 2%; */
+    background-color: black;
+}
+.inner_third2{
+    margin-left: 0;
+}
+
+#AboutMe, #Education, #Projects, #Skills, #Achievements, #ContactMe{
+    padding-top: 5%;
+}
+
+
+.heading{
+    color: white;
+    padding-top: 2%;
+    font-size: 400%;
+    padding-left:5%;
+    font-weight: 600;
+    /* background-color: rgb(236,65,65); */
+}
+.description{
+    color: white;
+}
+

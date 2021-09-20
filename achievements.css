@@ -1,0 +1,27 @@
+.hackerRank,
+.postman,
+.rollerSkating,
+.excellence {
+  padding: 3% 5%;
+}
+.achievement_name {
+  font-size: 120%;
+  font-weight: 400;
+  font-variant: small-caps;
+}
+.achievement_desc {
+  font-size: 100%;
+  font-style: italic;
+  text-align: justify;
+  padding: 1% 0%;
+}
+.achievement_desc a {
+  color: white;
+}
+.rs_ad {
+  padding: 3% 0%;
+  padding-bottom: 5%;
+}
+.rs_ad_last {
+  padding-bottom: 3%;
+}

@@ -1,0 +1,39 @@
+/* projects */
+/* .ProjectsOuter{
+    height: 1200px;
+} */
+/* .ProjectsInnerThird{
+    height:92%;
+} */
+.WeatherApplication,
+.NumberGuessingGame,
+.StringAnalyser,
+.EightQueenProblem {
+  padding: 5% 5%;
+}
+.pro_name {
+  font-size: 100%;
+  font-weight: 400;
+  font-variant: small-caps;
+}
+.pro_des {
+  font-size: 100%;
+  font-style: italic;
+  text-align: justify;
+  padding: 1% 0%;
+}
+.pro_link {
+  font-size: 100%;
+  font-style: italic;
+}
+.pro_github {
+  font-size: 100%;
+  font-style: italic;
+}
+.pro_link a {
+  /* text-decoration: none; */
+  color: white;
+}
+.pro_github a {
+  color: white;
+}

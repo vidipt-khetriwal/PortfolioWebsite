@@ -1,0 +1,31 @@
+/* Contact Me */
+/* .cmOuter{
+    height: 600px;
+} */
+.round_buttons{
+    display: flex;
+    justify-content: space-around;
+}
+.round_buttons a{
+    text-decoration: none;
+    background-color: #ec4141;
+    border-radius: 100%;
+    padding:2%;
+    margin: 2%;
+}
+.email_cm a{
+    text-decoration: none;
+    color: white;
+}
+.name_cm,.email_cm{
+    padding-left: 3%;
+    color: white;
+    text-align: center;
+    font-size: 120%;
+}
+.name_cm{
+    padding-top: 5%;
+}
+.email_cm{
+    padding-bottom: 5%;
+}

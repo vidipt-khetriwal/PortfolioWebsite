@@ -1,0 +1,125 @@
+/* Skills */
+/* .SkillsOuter{
+    height: 1000px;
+}
+.SkillsInnerThird{
+    height: 90%;
+} */
+.Skills_ul{
+    padding-right:2%;
+    padding-left: 5%;
+}
+.programming_languages{
+    font-size: 100%;
+}
+.head{
+    font-size: 150%;
+}
+.pl,.wd,.ms{
+    font-size: 100%;
+    border: 2px solid rgb(236, 65, 65);
+    border-radius: 20px;
+    margin: 5% 0%;
+    padding-left: 2%;
+}
+.java{
+    background: linear-gradient(
+        to right,
+        rgb(236,65,65) 0%,
+        rgb(236,65,65) 75%,
+        black 75%,
+        black 100%
+    );
+}
+.python{
+    background: linear-gradient(
+        to right,
+        rgb(236,65,65) 0%,
+        rgb(236,65,65) 85%,
+        black 85%,
+        black 100%
+    );
+}
+.cpp{
+    background: linear-gradient(
+        to right,
+        rgb(236,65,65) 0%,
+        rgb(236,65,65) 90%,
+        black 90%,
+        black 100%
+    );
+}
+.c{
+    background: linear-gradient(
+        to right,
+        rgb(236,65,65) 0%,
+        rgb(236,65,65) 75%,
+        black 75%,
+        black 100%
+    );
+}
+
+.html{
+    background: linear-gradient(
+        to right,
+        rgb(236,65,65) 0%,
+        rgb(236,65,65) 90%,
+        black 90%,
+        black 100%
+    );
+}
+.css{
+    background: linear-gradient(
+        to right,
+        rgb(236,65,65) 0%,
+        rgb(236,65,65) 85%,
+        black 85%,
+        black 100%
+    );
+}
+.javascript{
+    background: linear-gradient(
+        to right,
+        rgb(236,65,65) 0%,
+        rgb(236,65,65) 50%,
+        black 50%,
+        black 100%
+    );
+}
+.nodejs{
+    background: linear-gradient(
+        to right,
+        rgb(236,65,65) 0%,
+        rgb(236,65,65) 60%,
+        black 60%,
+        black 100%
+    );
+}
+
+.Word{
+    background: linear-gradient(
+        to right,
+        rgb(236,65,65) 0%,
+        rgb(236,65,65) 80%,
+        black 80%,
+        black 100%
+    );
+}
+.Excel{
+    background: linear-gradient(
+        to right,
+        rgb(236,65,65) 0%,
+        rgb(236,65,65) 70%,
+        black 70%,
+        black 100%
+    );
+}
+.Powerpoint{
+    background: linear-gradient(
+        to right,
+        rgb(236,65,65) 0%,
+        rgb(236,65,65) 85%,
+        black 85%,
+        black 100%
+    );
+}

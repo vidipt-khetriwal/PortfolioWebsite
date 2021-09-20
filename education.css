@@ -1,0 +1,41 @@
+/* Education */
+/* .EducationOuter{
+    height: 800px;
+} */
+/* .EduInner_third{
+    height: 90%;
+} */
+
+.firstline,.secondline{
+    display: flex;
+    justify-content: space-between;
+    padding: 0% 5% 0% 5%;
+}
+.firstline{
+    padding-bottom: 1%;
+}
+.c_name,.location{
+    font-size: 120%;
+    font-weight: 600;
+}
+.location{
+    padding-left: 2%;
+}
+.firsthalf,.secondhalf{
+    font-size: 120%;
+    font-style: italic;
+}
+.firsthalf{
+    padding-right: 2%;
+}
+.secondhalf{
+    padding-left: 2%;
+}
+.thirdline,.fourthline{
+    font-size: 120%;
+    font-style: italic;
+    padding: 0% 5% 0% 5%;
+}
+.VIT,.LMB,.DBL{
+    padding:3% 0%;
+}
